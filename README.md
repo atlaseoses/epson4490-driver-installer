@@ -1,8 +1,8 @@
-# Epson 4490 driver installer
+# epson 4490 driver installer
 
-Installs the Epson Perfection 4490 Photo (GT-X750) scanner on Arch Linux and CachyOS.
+a script to install the epson perfection 4490 photo (GT-X750) scanner on arch.
 
-This was made by AI.
+yeah this was made by ai
 
 ## Install
 
@@ -11,14 +11,6 @@ chmod +x install-epson-4490.sh
 ./install-epson-4490.sh
 ```
 
-The script asks for your password. It installs SANE, Simple Scan, and the Epson driver, then registers the scanner.
+it installs SANE, simple scan, and the epson driver, then registers the scanner.
 
-## Scan
-
-Open **Simple Scan**, or run:
-
-```bash
-scan-epson ~/scan.png
-```
-
-Leave the scanner powered on and plugged in.
+im not sure if it works or not
